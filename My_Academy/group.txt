@@ -1,0 +1,6 @@
+class Student:	Oleg              Zelenskii 25 Game-dev            221SBD  85      70      
+class Teacher:	White             Walter    50 Chemistry             20 
+class Graduate:	Schreader         Hank      40 Criminalistic       OBN     90      70      How to catch Heizenburg
+class Student:	Nikolay           Remark    36 Front-dev           245SBD  90      80      
+class Teacher:	Dmitry            Gorlan    25 Weapons distr         25 
+class Graduate:	Rosenberg         Ken       27 Lower               Vice    75      20      Get money back
